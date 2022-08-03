@@ -2,7 +2,7 @@
 - 👀 I’m interested in swift , python and flutter I like to use your programs
 - 🌱 I'm trying to learn and improve on the mobile application side
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me batuirmali@gmail.com
 
 
 
