@@ -1,4 +1,6 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center"> 
+<a href="#"><img width="400" height="400" src="https://koenig-media.raywenderlich.com/uploads/2016/02/02-feature-how-to-become-freelancer.png" height="175px"/></a>
+</p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Batuhan</h1>
 <h3 align="center">I am trying to be a passionate Ios Developer from Turkey.</h3>
