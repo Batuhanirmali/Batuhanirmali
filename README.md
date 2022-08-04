@@ -4,6 +4,15 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me batuirmali@gmail.com
 
+### Reach out to me
+
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/[LinkedIn].svg" align= "left" />][LinkedIn]
+[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/[Gmail].svg" align= "left" />][Gmail]
+
+[Gmail]: batuirmali@gmail.com
+[LinkedIn]: https://www.linkedin.com/in/talha-batuhan-irmal%C4%B1-7a1a92205/
+
+
 
 
 <!---
