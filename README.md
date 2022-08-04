@@ -6,8 +6,8 @@
 
 ### Reach out to me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/[LinkedIn].svg" align= "left" />][LinkedIn]
-[<img width="22" src="https://unpkg.com/simple-icons@v7/icons/[Gmail].svg" align= "left" />][Gmail]
+[<img width="22" src="unpkg.com/simple-icons@7.5.0/icons/linkedin.svg" align= "left" />][LinkedIn]
+[<img width="22" src="unpkg.com/simple-icons@7.5.0/icons/gmail.svg" align= "left" />][Gmail]
 
 [Gmail]: batuirmali@gmail.com
 [LinkedIn]: https://www.linkedin.com/in/talha-batuhan-irmal%C4%B1-7a1a92205/
