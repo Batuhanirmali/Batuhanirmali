@@ -51,7 +51,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/talha-batuhan-irmal%C4%B1-7a1a92205/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/talhabatuhanirmali/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/batuirmali"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/batuhanirmali"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
