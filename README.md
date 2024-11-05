@@ -3,12 +3,12 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Batuhan</h1>
-<h3 align="center">I am trying to be a passionate Senior Ios Developer</h3>
+<h3 align="center"> iOS Developer</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Swift, Basic SwiftUI and UX / UI Design.**
+- 🌱 I’m currently learning **Swift, SwiftUI and UX / UI Design.**
 
 - 💻 All my projects and works are available github: **[My Portfolio](https://github.com/Batuhanirmali)**
 
